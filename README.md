@@ -1,3 +1,15 @@
+🌳 Decision Tree vs Random Forest 🌲
+
+
+As part of my #Huawei AI Scholarship adventure, I investigated the distinction between a basic Decision Tree and a collection of trees (random Forest).
+
+
+ 🔎 Key takeaway:
+
+
+ Decision trees are quick and easy to comprehend, but they are prone to overfitting.
+
+
 | المعيار             | Decision Tree 🌳                              | Random Forest 🌲🌲🌲                                                        |
 | ------------------- | --------------------------------------------- | --------------------------------------------------------------------------- |
 | **الفكرة الأساسية** | نموذج واحد يعتمد على تقسيم البيانات بشكل هرمي | مجموعة (ensemble) من أشجار قرار يتم تدريبها على عينات مختلفة ثم دمج النتائج |
