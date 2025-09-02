@@ -10,6 +10,18 @@ As part of my #Huawei AI Scholarship adventure, I investigated the distinction b
  Decision trees are quick and easy to comprehend, but they are prone to overfitting.
 
 
+ Random Forest is slower, but more precise and consistent.
+
+
+ On the Titanic dataset, Random Forest outperformed a single Decision Tree in terms of accuracy and F1-score.
+
+
+ 👉 In your projects, do you want interpretability (Decision Tree) or accuracy (Random Forest)?
+
+
+ #AI #MachineLearning #HUAWEI #DecisionTree #RandomForest
+
+
 | المعيار             | Decision Tree 🌳                              | Random Forest 🌲🌲🌲                                                        |
 | ------------------- | --------------------------------------------- | --------------------------------------------------------------------------- |
 | **الفكرة الأساسية** | نموذج واحد يعتمد على تقسيم البيانات بشكل هرمي | مجموعة (ensemble) من أشجار قرار يتم تدريبها على عينات مختلفة ثم دمج النتائج |
